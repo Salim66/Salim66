@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/salimhasanriad" target="blank"><img src="https://img.shields.io/twitter/follow/salimhasanriad?logo=twitter&style=for-the-badge" alt="salimhasanriad" /></a> </p>
 
-- 🔭 I’m currently working on **MERN eCommerce**
+- 🔭 I’m currently working on **eCommerce**
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://www.iamselim.com](https://www.iamselim.com)
 
-- 💬 Ask me about **PHP, Laravel, JavaScript, React, React Native, Vue js**
+- 💬 Ask me about **NextJS, NestJS, NuxtJS, PHP, Laravel, JavaScript, ReactJS, React Native, VueJS**
 
 - 📫 How to reach me **salimhasanriad@gmail.com**
 
