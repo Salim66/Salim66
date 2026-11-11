@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md Salim Hasan Riad</h1>
 <h3 align="center">Full-stack engineer from Bangladesh · React · Next.js · Node.js · NestJS · AI apps</h3>
 
-<img align="right" width="380" src="PASTE-YOUR-EXISTING-ILLUSTRATION-URL-HERE" alt="developer illustration" />
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Salim66&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=salim66&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 - 🔭 I'm open to new **full-stack engineering** opportunities
@@ -15,22 +15,22 @@
 
 <br clear="right" />
 
-### Connect with me:
-<p>
-  <a href="https://linkedin.com/in/salim66"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.iamselim.com"><img src="https://skillicons.dev/icons?i=chrome" alt="Portfolio" /></a>
-  <a href="mailto:salimhasanriad@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/salim66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.iamselim.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=chrome" alt="Portfolio" height="30" width="30" /></a>
+  <a href="mailto:salimhasanriad@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="30" /></a>
 </p>
 
-### Languages and Tools:
-<p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,php,java,html,css,react,nextjs,vue,nuxt,redux,tailwind,bootstrap,sass,nodejs,nestjs,express,laravel,prisma,graphql&perline=10" alt="Languages and frameworks" />
 </p>
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git,postman,figma,linux&perline=10" alt="Databases and tools" />
 </p>
 
-### GitHub Stats:
-<p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
   <img src="https://streak-stats.demolab.com/?user=Salim66&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
